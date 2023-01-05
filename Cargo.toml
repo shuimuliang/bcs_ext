@@ -6,7 +6,7 @@ description = "Binary Canonical Serialization (BCS) Extension from startcoin"
 repository = "https://github.com/shuimuliang/bcs_ext"
 homepage = "https://eclipse.io"
 license = "Apache-2.0"
-publish = true
+publish = false
 edition = "2021"
 
 [dependencies]
