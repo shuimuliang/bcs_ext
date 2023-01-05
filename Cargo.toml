@@ -1,10 +1,13 @@
 [package]
-authors = ["Starcoin Core Dev <dev@starcoin.org>"]
-edition = "2021"
-license = "Apache-2.0"
 name = "bcs-ext"
-publish = true
 version = "1.12.9"
+authors = ["Starcoin Core Dev <dev@starcoin.org>"]
+description = "Binary Canonical Serialization (BCS) Extension from startcoin"
+repository = "https://github.com/shuimuliang/bcs_ext"
+homepage = "https://eclipse.io"
+license = "Apache-2.0"
+publish = true
+edition = "2021"
 
 [dependencies]
 anyhow = "1.0.41"
